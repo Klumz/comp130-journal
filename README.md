@@ -7,4 +7,7 @@ Base repository for COMP130 research journal
 
 [Blue Eyes Technology](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/stamp/stamp.jsp?arnumber=6693995)
 
-[Blue Eyes Technology](http://pnrsolution.org/Datacenter/Vol4/Issue1/70.pdf)
+[Blue Eyes Technology](http://pnrsolution.org/Datacenter/Vol4/Issue1/70.pdf) (not same as previous)
+
+[Hybrid Technique for Human Face Emotion Detection](http://ijsetr.com/uploads/435621IJSETR4235-180.pdf)
+
