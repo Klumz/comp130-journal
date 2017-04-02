@@ -4,15 +4,17 @@ Base repository for COMP130 research journal
 # Blue Eyes Technology
 
 ## Introduction
-Humans depend on their ability to perceive, interpret, and react to information. However, could such sensory abilities be implemented for computers? This is where blue eyes technology comes into play. It is the technology built for analysing, detecting, and reacting accordingly to human emotions used with various electronic gadgets, such as a camera. This technology aims to enable computational machines to absorb and interact with humans based on their emotional information, allowing a natural interaction between the two. The **blue** in **blue eyes** stands for 'bluetooth', which is what enables wireless communication. **Eyes** simply refers to human eyes and their ability to move and gather information. Related methods are speech and facial recognition. 
+Humans depend on their ability to perceive, interpret, and react to information. However, could such sensory abilities be implemented and programmed for computers? This is where blue eyes technology comes into play. It is the technology built for analysing, detecting, and reacting accordingly to human emotions used with various electronic gadgets, such as a camera. This technology aims to enable computational machines to absorb and interact with humans based on their emotional information, allowing a natural interaction between the two. The **blue** in **blue eyes** stands for 'bluetooth', which is what enables wireless communication. **Eyes** simply refers to human eyes and their ability to move and gather information. Related methods are speech and facial recognition. 
 
 ## Emotion Sensors
-Different types of experimental sensors have been created and proposed to capture emotional states, such as the Emotion Mouse. This device in particular gathers emotional information through touch, aiming to improve user productivity as its goal.  
+Different types of experimental sensors have been created and proposed to capture emotional states, such as the Emotion Mouse. This device in particular gathers emotional information through touch, aiming to improve user productivity as its goal. 
 
 
 ## Sources:
 
 [The Emotion Mouse](https://pdfs.semanticscholar.org/91d8/2d479b4469cfc8b2c52005a3f8bbf7d28aae.pdf)
+
+This paper proposes a method for gaining emotional user information through touch, the Emotion Mouse. It provides both a theory and experimentation. The four physiological readings measured during the experiment were heart rate, temperature, GSR (galvanic skin response, basically changes in the electrical resistance of the skin caused by stress, measurable with a galvanometer, e.g. in lie-detector tests.) and somatic movement. Ultimately, the results indicated the theory behind the Emotion mouse work are fundamentally sound. The physiological measurements correlated to emotions using a correlation model.
 
 [Blue Eyes Technology](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/stamp/stamp.jsp?arnumber=6693995)
 
