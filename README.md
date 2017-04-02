@@ -24,10 +24,14 @@ Anger: Eyebrows are pulled down and inward
 
 Surprise: Eyebrows are raised and curved.
 
+*"Blue Eyes uses sensing technology to identify a user's actions and to extract key information. This information is then analyzed to determine the user's physical, emotional, or informational state, which in turn can be used to make the user more productive by performing expected actions or by providing expected information."*
+
 
 ### [2] [The Emotion Mouse](https://pdfs.semanticscholar.org/91d8/2d479b4469cfc8b2c52005a3f8bbf7d28aae.pdf)
 
 This paper proposes a method for gaining emotional user information through touch, the Emotion Mouse. It provides both a theory and experimentation. The four physiological readings measured during the experiment were heart rate, temperature, GSR (galvanic skin response, basically changes in the electrical resistance of the skin caused by stress, measurable with a galvanometer, e.g. in lie-detector tests.) and somatic movement. Ultimately, the results indicated the theory behind the Emotion Mouse work are fundamentally sound. The physiological measurements correlated to emotions using a correlation model.
+
+*"Our proposed method for gaining user information through touch is via a computer input device, the mouse. From the physiological data obtained from the user, an emotional state may be determined which would then be related to the task the user is currently doing on the computer."* 
 
 
 ### [3] [Establishing Remote Conversations Through Eye Contact With Physical Awareness Proxies](https://static1.squarespace.com/static/519d10a2e4b090350a2b66a0/t/51e5525be4b0ead5a3b6de6c/1373983323680/p948-jabarin.pdf)
@@ -39,8 +43,9 @@ This paper presents a mechanism for initiating remote conversations between two 
 
 ### [4] [An Active Model For Facial Feature Tracking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.1837&rep=rep1&type=pdf)
 
-This paper provides a system that tracks face and facial features in an MP4 video sequence, as well as an experiment showcasing its notable results. It works in real-time, and should be applicable on consumer hardware provided it receives further development.
+This paper provides a system that tracks face and facial features in a video sequence, as well as an experiment showcasing its notable results. It works in real-time, and should be applicable on consumer hardware provided it receives further development.
 
+*"The system uses an initial colour processing step for finding a rough estimate of the position, size, and inplane rotation of the face, followed by a refinement step driven by an Active Model. The latter step refines the previous estimate, and also extracts local animation parameters. The system is able to track the face and some facial features in near real-time, and can compress the result to a bitstream compliant to MPEG-4 Face & Body Animation."*
 
 ### [5] [Perceptual User Interfaces using Vision-based Eye Tracking](http://www.cc.gatech.edu/cpl/projects/multicameyetracking/papers/PrePrint.pdf)
 
@@ -52,4 +57,6 @@ This paper presents an experiment on a head pose tracking system with the use of
 ### [6] [Hybrid Technique for Human Face Emotion Detection](http://ijsetr.com/uploads/435621IJSETR4235-180.pdf)
 
 This paper presents an approach for emotion detection in heavily [noisy images](https://en.wikipedia.org/wiki/Image_noise), focusing on removal of noise from said images. The emotions used are anger, fear, happiness and neutral.
+
+*"The problem with finger print, iris palm print, speech, gaits are they need active co-operation of person while face recognition is a process does not require active co-operation of a person so without instructing the person can recognize the person."*
 
