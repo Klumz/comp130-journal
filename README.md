@@ -37,7 +37,14 @@ This paper presents an approach for emotion detection in heavily [noisy images](
 
 This paper presents an experiment on a head pose tracking system with the use of multiple cameras in indoor settings under varying lighting conditions. 
 
+"A significant amount of past research in human factors suggests that humans are generally interested in what they look at [20, 5]."
+
 [Establishing Remote Conversations Through Eye Contact With Physical Awareness Proxies](https://static1.squarespace.com/static/519d10a2e4b090350a2b66a0/t/51e5525be4b0ead5a3b6de6c/1373983323680/p948-jabarin.pdf)
+
+This paper presents a mechanism for initiating remote conversations between two users through eye contact, the eyePHONE. It conveys attention using an eye tracking device and a pair of synthetic, proxy eyeballs. The calls are initiated by looking, for a set amount of time, at each other's eyePHONE.
+
+"Face-to-face interactions provide a rich selection of verbal and non-verbal cues that allow potential interlocutors to negotiate the availability of their attention with great subtlety."
+
 
 [Vision System of Blue Eyes](https://www.ermt.net/docs/papers/Volume_3/4_April2014/V3N4-143.pdf)
 
