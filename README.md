@@ -30,6 +30,11 @@ Surprise: Eyebrows are raised and curved.
 This paper proposes a method for gaining emotional user information through touch, the Emotion Mouse. It provides both a theory and experimentation. The four physiological readings measured during the experiment were heart rate, temperature, GSR (galvanic skin response, basically changes in the electrical resistance of the skin caused by stress, measurable with a galvanometer, e.g. in lie-detector tests.) and somatic movement. Ultimately, the results indicated the theory behind the Emotion Mouse work are fundamentally sound. The physiological measurements correlated to emotions using a correlation model.
 
 
+[An Active Model For Facial Feature Tracking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.1837&rep=rep1&type=pdf)
+
+This paper provides a system that tracks face and facial features in an MP4 video sequence, as well as an experiment showcasing its notable results. It works in real-time, and should be applicable on consumer hardware provided it receives further development.
+
+
 [Hybrid Technique for Human Face Emotion Detection](http://ijsetr.com/uploads/435621IJSETR4235-180.pdf)
 
 This paper presents an approach for emotion detection in heavily [noisy images](https://en.wikipedia.org/wiki/Image_noise), focusing on removal of noise from said images. The emotions used are anger, fear, happiness and neutral.
@@ -47,9 +52,4 @@ This paper presents an experiment on a head pose tracking system with the use of
 This paper presents a mechanism for initiating remote conversations between two users through eye contact, the eyePHONE. It conveys attention using an eye tracking device and a pair of synthetic, proxy eyeballs. The calls are initiated by looking, for a set amount of time, at each other's eyePHONE.
 
 "Face-to-face interactions provide a rich selection of verbal and non-verbal cues that allow potential interlocutors to negotiate the availability of their attention with great subtlety."
-
-
-[An Active Model For Facial Feature Tracking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.1837&rep=rep1&type=pdf)
-
-This paper provides a system that tracks face and facial features in an MP4 video sequence, as well as an experiment showcasing its notable results. It works in real-time, and should be applicable on consumer hardware provided it receives further development.
 
