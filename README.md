@@ -46,5 +46,5 @@ This paper presents a mechanism for initiating remote conversations between two 
 "Face-to-face interactions provide a rich selection of verbal and non-verbal cues that allow potential interlocutors to negotiate the availability of their attention with great subtlety."
 
 
-[Vision System of Blue Eyes](https://www.ermt.net/docs/papers/Volume_3/4_April2014/V3N4-143.pdf)
+[An Active Model For Facial Feature Tracking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.1837&rep=rep1&type=pdf)
 
