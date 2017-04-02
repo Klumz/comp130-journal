@@ -7,16 +7,12 @@ Base repository for COMP130 research journal
 Humans depend on their ability to perceive, interpret, and react to information. However, could such sensory abilities be implemented and programmed for computers? This is where blue eyes technology comes into play. It is the technology built for analysing, detecting, and reacting accordingly to human emotions used with various electronic gadgets, such as a camera. This technology aims to enable computational machines to absorb and interact with humans based on their emotional information, allowing a natural interaction between the two. The **blue** in **blue eyes** stands for 'bluetooth', which is what enables wireless communication. **Eyes** simply refers to human eyes and their ability to move and gather information. Related methods are speech and facial recognition. 
 
 ## The potential
-Different types of experimental sensors have been created and proposed to capture emotional states, an example being the Emotion Mouse. This device in particular gathers emotional information through touch, aiming to improve user productivity as its goal. 
+Different types of experimental sensors have been created and proposed to capture emotional states, an example being the Emotion Mouse. This device in particular gathers emotional information through touch, aiming to improve user productivity as its goal. Another one is 
 
 ## Conclusion
 
 
 ## Sources:
-
-[The Emotion Mouse](https://pdfs.semanticscholar.org/91d8/2d479b4469cfc8b2c52005a3f8bbf7d28aae.pdf)
-
-This paper proposes a method for gaining emotional user information through touch, the Emotion Mouse. It provides both a theory and experimentation. The four physiological readings measured during the experiment were heart rate, temperature, GSR (galvanic skin response, basically changes in the electrical resistance of the skin caused by stress, measurable with a galvanometer, e.g. in lie-detector tests.) and somatic movement. Ultimately, the results indicated the theory behind the Emotion Mouse work are fundamentally sound. The physiological measurements correlated to emotions using a correlation model.
 
 [Blue Eyes Technology](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/stamp/stamp.jsp?arnumber=6693995)
 
@@ -27,6 +23,12 @@ Happiness: Relaxed and neutral eyes
 Anger: Eyebrows are pulled down and inward
 
 Surprise: Eyebrows are raised and curved.
+
+
+[The Emotion Mouse](https://pdfs.semanticscholar.org/91d8/2d479b4469cfc8b2c52005a3f8bbf7d28aae.pdf)
+
+This paper proposes a method for gaining emotional user information through touch, the Emotion Mouse. It provides both a theory and experimentation. The four physiological readings measured during the experiment were heart rate, temperature, GSR (galvanic skin response, basically changes in the electrical resistance of the skin caused by stress, measurable with a galvanometer, e.g. in lie-detector tests.) and somatic movement. Ultimately, the results indicated the theory behind the Emotion Mouse work are fundamentally sound. The physiological measurements correlated to emotions using a correlation model.
+
 
 [Hybrid Technique for Human Face Emotion Detection](http://ijsetr.com/uploads/435621IJSETR4235-180.pdf)
 
@@ -39,6 +41,7 @@ This paper presents an experiment on a head pose tracking system with the use of
 
 "A significant amount of past research in human factors suggests that humans are generally interested in what they look at [20, 5]."
 
+
 [Establishing Remote Conversations Through Eye Contact With Physical Awareness Proxies](https://static1.squarespace.com/static/519d10a2e4b090350a2b66a0/t/51e5525be4b0ead5a3b6de6c/1373983323680/p948-jabarin.pdf)
 
 This paper presents a mechanism for initiating remote conversations between two users through eye contact, the eyePHONE. It conveys attention using an eye tracking device and a pair of synthetic, proxy eyeballs. The calls are initiated by looking, for a set amount of time, at each other's eyePHONE.
@@ -49,3 +52,4 @@ This paper presents a mechanism for initiating remote conversations between two 
 [An Active Model For Facial Feature Tracking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.1837&rep=rep1&type=pdf)
 
 This paper provides a system that tracks face and facial features in an MP4 video sequence, as well as an experiment showcasing its notable results. It works in real-time, and should be applicable on consumer hardware provided it receives further development.
+
