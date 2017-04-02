@@ -6,6 +6,13 @@ Base repository for COMP130 research journal
 [Overview of Blue Eyes Technology](http://www.internationaljournalssrg.org/IJEEE/2015/Volume2-Issue8/IJEEE-V2I8P109.pdf)
 
 [Blue Eyes Technology](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/stamp/stamp.jsp?arnumber=6693995)
+This paper introduces a new technique called "Emotion Sensory World", where human emotions are analysed and detected through machine eyes. This is done by a camera taking an image of said eye, processes it using a texture filtering algorithm, then is finally compared with the list of images stores in database. Examples of the emotional distinctions include: 
+
+Happiness: Relaxed and neutral eyes
+
+Anger: Eyebrows are pulled down and inward
+
+Surprise: Eyebrows are raised and curved.
 
 [Blue Eyes Technology](http://pnrsolution.org/Datacenter/Vol4/Issue1/70.pdf) (not same as previous)
 
