@@ -15,9 +15,9 @@ Anger: Eyebrows are pulled down and inward
 
 Surprise: Eyebrows are raised and curved.
 
-[Blue Eyes Technology](http://pnrsolution.org/Datacenter/Vol4/Issue1/70.pdf) (not same as previous)
-
 [Hybrid Technique for Human Face Emotion Detection](http://ijsetr.com/uploads/435621IJSETR4235-180.pdf)
+This paper presents an approach for emotion detection in heavily [noisy images](https://en.wikipedia.org/wiki/Image_noise), focusing on removal of noise from said images. The emotions used are anger, fear, happiness and neutral.
+
 
 [Perceptual User Interfaces using Vision-based Eye Tracking](http://www.cc.gatech.edu/cpl/projects/multicameyetracking/papers/PrePrint.pdf)
 
