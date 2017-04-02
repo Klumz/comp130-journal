@@ -14,7 +14,7 @@ Different types of experimental sensors have been created and proposed to captur
 
 [The Emotion Mouse](https://pdfs.semanticscholar.org/91d8/2d479b4469cfc8b2c52005a3f8bbf7d28aae.pdf)
 
-This paper proposes a method for gaining emotional user information through touch, the Emotion Mouse. It provides both a theory and experimentation. The four physiological readings measured during the experiment were heart rate, temperature, GSR (galvanic skin response, basically changes in the electrical resistance of the skin caused by stress, measurable with a galvanometer, e.g. in lie-detector tests.) and somatic movement. Ultimately, the results indicated the theory behind the Emotion mouse work are fundamentally sound. The physiological measurements correlated to emotions using a correlation model.
+This paper proposes a method for gaining emotional user information through touch, the Emotion Mouse. It provides both a theory and experimentation. The four physiological readings measured during the experiment were heart rate, temperature, GSR (galvanic skin response, basically changes in the electrical resistance of the skin caused by stress, measurable with a galvanometer, e.g. in lie-detector tests.) and somatic movement. Ultimately, the results indicated the theory behind the Emotion Mouse work are fundamentally sound. The physiological measurements correlated to emotions using a correlation model.
 
 [Blue Eyes Technology](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/stamp/stamp.jsp?arnumber=6693995)
 
