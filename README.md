@@ -35,6 +35,8 @@ This paper presents an approach for emotion detection in heavily [noisy images](
 
 [Perceptual User Interfaces using Vision-based Eye Tracking](http://www.cc.gatech.edu/cpl/projects/multicameyetracking/papers/PrePrint.pdf)
 
+This paper presents an experiment on a head pose tracking system with the use of multiple cameras in indoor settings under varying lighting conditions. 
+
 [Establishing Remote Conversations Through Eye Contact With Physical Awareness Proxies](https://static1.squarespace.com/static/519d10a2e4b090350a2b66a0/t/51e5525be4b0ead5a3b6de6c/1373983323680/p948-jabarin.pdf)
 
 [Vision System of Blue Eyes](https://www.ermt.net/docs/papers/Volume_3/4_April2014/V3N4-143.pdf)
