@@ -34,7 +34,7 @@ This paper proposes a method for gaining emotional user information through touc
 
 This paper presents a mechanism for initiating remote conversations between two users through eye contact, the eyePHONE. It conveys attention using an eye tracking device and a pair of synthetic, proxy eyeballs. The calls are initiated by looking, for a set amount of time, at each other's eyePHONE.
 
-"Face-to-face interactions provide a rich selection of verbal and non-verbal cues that allow potential interlocutors to negotiate the availability of their attention with great subtlety."
+*"Face-to-face interactions provide a rich selection of verbal and non-verbal cues that allow potential interlocutors to negotiate the availability of their attention with great subtlety."*
 
 
 ### [4] [An Active Model For Facial Feature Tracking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.1837&rep=rep1&type=pdf)
@@ -46,7 +46,7 @@ This paper provides a system that tracks face and facial features in an MP4 vide
 
 This paper presents an experiment on a head pose tracking system with the use of multiple cameras in indoor settings under varying lighting conditions. 
 
-"A significant amount of past research in human factors suggests that humans are generally interested in what they look at [20, 5]."
+*"A significant amount of past research in human factors suggests that humans are generally interested in what they look at [20, 5]."*
 
 
 ### [6] [Hybrid Technique for Human Face Emotion Detection](http://ijsetr.com/uploads/435621IJSETR4235-180.pdf)
