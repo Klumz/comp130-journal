@@ -6,9 +6,12 @@ Base repository for COMP130 research journal
 ## Introduction
 Humans depend on their ability to perceive, interpret, and react to information. However, could such sensory abilities be implemented for computers? This is where blue eyes technology comes into play. It is the technology built for analysing, detecting, and reacting accordingly to human emotions used with various electronic gadgets, such as a camera. This technology aims to enable computational machines to absorb and interact with humans based on their emotional information, allowing a natural interaction between the two. The **blue** in **blue eyes** stands for 'bluetooth', which is what enables wireless communication. **Eyes** simply refers to human eyes and their ability to move and gather information. Related methods are speech and facial recognition. 
 
+## Emotion Sensors
+Different types of sensors have been created to capture emotional states from users. 
+
 ## Sources:
 
-[Overview of Blue Eyes Technology](http://www.internationaljournalssrg.org/IJEEE/2015/Volume2-Issue8/IJEEE-V2I8P109.pdf)
+[The Emotion Mouse](https://pdfs.semanticscholar.org/91d8/2d479b4469cfc8b2c52005a3f8bbf7d28aae.pdf)
 
 [Blue Eyes Technology](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/stamp/stamp.jsp?arnumber=6693995)
 
