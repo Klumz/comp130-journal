@@ -10,7 +10,7 @@ Humans depend on their ability to perceive, interpret, and react to information.
 Different types of experimental sensors have been created and proposed to capture emotional states, an example being the **Emotion Mouse** [2]. This device in particular gathers emotional information through touch, which it then reacts to by adapting to the user's emotions to create a better work environment, ultimately aiming to improve user productivity. Another one is the **eyePHONE**, an experimental device that allows users to initiate phone calls by holding eye contact to their eyePHONE, and assuming the receiver agrees to the initiation, they accept it by also looking at their eyePHONE, facilitating the use of basic social norms for initiating conversations [3]. Additionally, this device conveys non-verbal availability, as opposed to phone calls, subtly explaining if the caller is currently busy or not. Such systems and technologies can be implemented for, for instance, disabled individuals. While merely experiments, they can be further developed and improved in order to provide ease of accessibility not only for disabled individuals, but potentially for the business side of the industry as well, where user productivity is emphasised. 
 
 ## Conclusion
-Blue Eyes technology involves creating systems and devices that work either in business (such as the Emotion Mouse) situations, or primarily to enable ease of access for impaired individuals of varying kinds (such as the eyePHONE). Further research and development are required for this specific field, however has major potential if both existing and new gadgets are programmed, improved and implemented respectfully. 
+Blue Eyes technology involves creating systems and devices that work either in business (such as the Emotion Mouse) situations, or primarily to enable ease of access for impaired individuals of varying kinds (such as the eyePHONE). Further research and development are required for this specific field, however has major potential if both existing and new gadgets are programmed, improved and implemented respectfully, as shown in this pape, mainly focusing on the removal of heavy [image noise](https://en.wikipedia.org/wiki/Image_noise) from images for Blue Eyes technology. [6] 
 
 ## Sources:
 
@@ -42,14 +42,14 @@ This paper presents a mechanism for initiating remote conversations between two 
 This paper provides a system that tracks face and facial features in an MP4 video sequence, as well as an experiment showcasing its notable results. It works in real-time, and should be applicable on consumer hardware provided it receives further development.
 
 
-[Hybrid Technique for Human Face Emotion Detection](http://ijsetr.com/uploads/435621IJSETR4235-180.pdf)
-
-This paper presents an approach for emotion detection in heavily [noisy images](https://en.wikipedia.org/wiki/Image_noise), focusing on removal of noise from said images. The emotions used are anger, fear, happiness and neutral.
-
-
 [Perceptual User Interfaces using Vision-based Eye Tracking](http://www.cc.gatech.edu/cpl/projects/multicameyetracking/papers/PrePrint.pdf)
 
 This paper presents an experiment on a head pose tracking system with the use of multiple cameras in indoor settings under varying lighting conditions. 
 
 "A significant amount of past research in human factors suggests that humans are generally interested in what they look at [20, 5]."
+
+
+[Hybrid Technique for Human Face Emotion Detection](http://ijsetr.com/uploads/435621IJSETR4235-180.pdf)
+
+This paper presents an approach for emotion detection in heavily [noisy images](https://en.wikipedia.org/wiki/Image_noise), focusing on removal of noise from said images. The emotions used are anger, fear, happiness and neutral.
 
