@@ -48,3 +48,4 @@ This paper presents a mechanism for initiating remote conversations between two 
 
 [An Active Model For Facial Feature Tracking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.1837&rep=rep1&type=pdf)
 
+This paper provides a system that tracks face and facial features in an MP4 video sequence, as well as an experiment showcasing its notable results. It works in real-time, and should be applicable on consumer hardware provided it receives further development.
