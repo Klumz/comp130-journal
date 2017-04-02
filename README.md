@@ -54,9 +54,9 @@ This paper presents an experiment on a head pose tracking system with the use of
 *"A significant amount of past research in human factors suggests that humans are generally interested in what they look at [20, 5]."*
 
 
-### [6] [Hybrid Technique for Human Face Emotion Detection](http://ijsetr.com/uploads/435621IJSETR4235-180.pdf)
+### [6] [Hybrid Technique for Human Face Emotion Detection](https://pdfs.semanticscholar.org/60fe/1016aa59261f9135a036f9e968721fa2930b.pdf)
 
 This paper presents an approach for emotion detection in heavily [noisy images](https://en.wikipedia.org/wiki/Image_noise), focusing on removal of noise from said images. The emotions used are anger, fear, happiness and neutral.
 
-*"The problem with finger print, iris palm print, speech, gaits are they need active co-operation of person while face recognition is a process does not require active co-operation of a person so without instructing the person can recognize the person."*
+*"There is a vast body of literature on emotions. Recent discoveries suggest that emotions are intricately linked to other functions such as attention, perception, memory, decision making, and learning. This suggests that it may be beneficial for computers to recognize the human user’s emotions and other related cognitive states and expressions."*
 
